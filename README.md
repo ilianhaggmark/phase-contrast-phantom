@@ -9,7 +9,7 @@ Simulations of propagation-based phase-contrast X-ray imaging (PB-PCXI) requires
 
 ## Mammography Phantom
 
-Original phantom taken from [VICTRE project](https://github.com/DIDSR/VICTRE). This is one of the sample phantoms provided. The sampling is 50 µm. An upsampled version (32x -> 1.5625 µm sampling) is available. In the upsampled version only the projected thickness of each material is saved to reduce data size. 
+Original phantom taken from [VICTRE project](https://github.com/DIDSR/VICTRE). This is one of the sample phantoms provided. The sampling is 50 µm. An upsampled version (32x -> 1.5625 µm sampling) is available [here](https://zenodo.org/record/4063981). In the upsampled version only the projected thickness of each material is saved to reduce data size. 
 
 
 ## Publication
