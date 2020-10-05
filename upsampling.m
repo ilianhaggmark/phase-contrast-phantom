@@ -1,4 +1,4 @@
-%% Upsampling of voxel-based phantom for Phase-contrast X-ray imaging
+%% Upsampling of voxel-based phantom for Phase-contrast X-ray imaging (PCXI).
 % Ilian Häggmark, 2020
 
 tic
