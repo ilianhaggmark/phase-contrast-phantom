@@ -13,9 +13,9 @@ Original phantom taken from [VICTRE project](https://github.com/DIDSR/VICTRE). T
 
 
 ## Publication
-
+To use this work, please cite:
 __In Silico Phase-Contrast X-Ray Imaging of Anthropomorphic Voxel-Based Phantoms__
-Ilian Häggmark, Kian Shaker, and Hans M. Hertz. under review.
+Ilian Häggmark, Kian Shaker, and Hans M. Hertz. [IEEE Transactions on Medical Imaging 40(2) 539-548 (2021)](https://doi.org/10.1109/TMI.2020.3031318).
 
 
 
